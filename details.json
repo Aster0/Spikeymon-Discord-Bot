@@ -1,0 +1,24 @@
+{
+
+  "token" : "REDACTED",
+  "status_message" : "verifications • Made By Aden Koh",
+
+  "channels" : {
+
+    "verification_normal_id" : 898216361971552267,
+    "verification_management_id" : 898241854200492083
+  },
+
+  "roles" : {
+    "year_1_role" : 898210125184122880,
+    "year_2_role" : 898210694401499186,
+    "year_3_role" : 898210888161570837,
+    "verified_role" : 898212074105217044
+  },
+
+
+  "colors" : {
+
+    "primary_color" : "11334812"
+  }
+}
